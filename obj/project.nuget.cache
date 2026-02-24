@@ -1,12 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "WC4w6Dkr6B0=",
+  "dgSpecHash": "At1petCZIgU=",
   "success": true,
-  "projectFilePath": "/Users/MortenStaunstrup/src/M2.01-GitFlow/UserAPI.csproj",
+  "projectFilePath": "C:\\Users\\mort4\\RiderProjects\\M2.01-GitFlow\\UserAPI.csproj",
   "expectedPackageFiles": [
-    "/Users/MortenStaunstrup/.nuget/packages/microsoft.aspnetcore.openapi/10.0.1/microsoft.aspnetcore.openapi.10.0.1.nupkg.sha512",
-    "/Users/MortenStaunstrup/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512",
-    "/Users/MortenStaunstrup/.nuget/packages/system.text.json/8.0.5/system.text.json.8.0.5.nupkg.sha512"
+    "C:\\Users\\mort4\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.1\\microsoft.aspnetcore.openapi.10.0.1.nupkg.sha512",
+    "C:\\Users\\mort4\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
   ],
   "logs": []
 }
