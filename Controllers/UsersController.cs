@@ -11,6 +11,6 @@ public class UsersController
     [HttpPost(Name = "RegisterUser")]
     public  User RegisterUser(User user)
     {
-        throw new InvalidOperationException();
-    }
+        
+    };
 }
