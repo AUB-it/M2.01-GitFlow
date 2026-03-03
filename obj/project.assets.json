@@ -83,25 +83,32 @@
     ]
   },
   "packageFolders": {
-    "/Users/thanushanbalasubramaniam/.nuget/packages/": {}
+    "C:\\Users\\mort4\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/thanushanbalasubramaniam/UserAPI/UserAPI.csproj",
+      "projectUniqueName": "C:\\Users\\mort4\\RiderProjects\\M2.01-GitFlow\\UserAPI.csproj",
       "projectName": "UserAPI",
-      "projectPath": "/Users/thanushanbalasubramaniam/UserAPI/UserAPI.csproj",
-      "packagesPath": "/Users/thanushanbalasubramaniam/.nuget/packages/",
-      "outputPath": "/Users/thanushanbalasubramaniam/UserAPI/obj/",
+      "projectPath": "C:\\Users\\mort4\\RiderProjects\\M2.01-GitFlow\\UserAPI.csproj",
+      "packagesPath": "C:\\Users\\mort4\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mort4\\RiderProjects\\M2.01-GitFlow\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/Users/thanushanbalasubramaniam/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\mort4\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
       ],
       "sources": {
-        "/Users/thanushanbalasubramaniam/.dotnet/library-packs": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -150,7 +157,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/Users/thanushanbalasubramaniam/.dotnet/sdk/10.0.102/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.AspNetCore": "(,10.0.32767]",
           "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
